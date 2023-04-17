@@ -1,0 +1,36 @@
+.divInput {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputText {
+    height: 3.375rem;
+    width: 39.875rem;
+    border-radius: 8px;
+    background: var(--gray-400);
+    color: var(--gray-300);
+    margin-top: -2rem;
+    padding-left: 0.75rem;
+    border: 0;
+    border: 1px solid #0D0D0D;
+    display: flex;
+}
+
+.Button {
+    width: 90px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background: #1E6F9F;
+    border-radius: 8px;
+    margin-top: -2rem;
+    border: 0;
+    margin-left: 0.5rem;
+    cursor: pointer;
+    padding: 1rem;
+    gap: 5px;
+    align-items: center;
+}
+
